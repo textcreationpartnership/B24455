@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hvmble petition and remonstrance of divers citizens and other inhabitants of the city of London and borrough of Southwarke who lately presented their humle [sic] petition to the honourable Houses of Parliament for an accommodation of peace : as also the humble remonstrance of the said petitioners of the greate abuses and outrages committed upon divers of those persons who peaceably endeavoured to promote the said petition.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24455</idno><idno type="EEBO-CITATION">12141387</idno>
+  <idno type="VID">196948</idno>
+  <idno type="EEBO-PROQUEST">2248554107</idno>
+  
+            <idno type="STC">Wing H3436</idno>
+            <idno type="OCLC">12141387</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hvmble petition and remonstrance of divers citizens and other inhabitants of the city of London and borrough of Southwarke who lately presented their humle [sic] petition to the honourable Houses of Parliament for an accommodation of peace : as also the humble remonstrance of the said petitioners of the greate abuses and outrages committed upon divers of those persons who peaceably endeavoured to promote the said petition.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nicholas Manwaring,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196948:1"/>
+            <p>THE HVMBLE PETITION AND REMONSTRANCE OF Divers Citizens, and other Inhabi<g ref="char:EOLhyphen"/>tants of the City of LONDON, and Borrough of SOUTHWARKE, Who lately Presented their humle Pe<g ref="char:EOLhyphen"/>tition to the Honourable Houses of PARLIAMENT for an Accommodation of PEACE, <hi>AS ALSO</hi> The Humble Remonstrance of the said Petitioners, of the greate abuses and out<g ref="char:EOLhyphen"/>rages Committed upon divers of those Per<g ref="char:EOLhyphen"/>sons who Peaceably endeavoured to pro<g ref="char:EOLhyphen"/>mote the said Petition.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nicholas Manwaring</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:196948:2"/>
+            <pb n="3" facs="tcp:196948:2"/>
+            <head>To the right Honourable, the LORDS and COMMONS in this present PAR<g ref="char:EOLhyphen"/>LIAMENT Assembled.</head>
+            <head type="sub">The Humble PETITION of divers Citizens and other Inhabi<g ref="char:EOLhyphen"/>tants of the City of <hi>LONDON,</hi> &amp; borough of Southwark &amp;c. Who lately presented their Humble Petition unto your Ho<g ref="char:EOLhyphen"/>nours for an Accommodation. As also the Humble Remon<g ref="char:EOLhyphen"/>strance of the said petitioners of the great abuses and out<g ref="char:EOLhyphen"/>rages committed upon divers of these Persons which peace<g ref="char:EOLhyphen"/>ably endeavoured to promote the said Petition.</head>
+            <opener>Whereas,</opener>
+            <p>THe Petitioners being most of them Citizens and In<g ref="char:EOLhyphen"/>habitants of London, and equally with other Citi<g ref="char:EOLhyphen"/>zens and Inhabitants of the said City, concerned in the Common good thereof, and taking notice that a Peti<g ref="char:EOLhyphen"/>tion and Remonstrance about the beginning of this in<g ref="char:EOLhyphen"/>stant
+<pb n="4" facs="tcp:196948:3"/>
+               <hi>December,</hi> had bin presented to the Honourable House of Commons, by some few Inhabitants of Lon<g ref="char:EOLhyphen"/>don not exceeding the number of a Hundred, against an Accommodation for Peace: Which Petition and Remonstraance was vulgarly reputed to be the Petition and Remonstrance of the City of London, which the Petitioners conceaving to be great calumy upon them<g ref="char:EOLhyphen"/>selves, and the City; and desiring to be vindicated for that imputation, and to free themselves from the gener<g ref="char:EOLhyphen"/>all <hi>Odium</hi> of the Kingdome, which the Petitioners fear<g ref="char:EOLhyphen"/>ed they may justly incur, in case the said imputation should not be speedily removed; and aswell to give satisfaction to this present age, as to informe Posterity, that they doe utterly disclaime that Petition and Remonstrance, have lately taken upon them the boldnesse to present to your Hands an Humble Petition of a contrary Nature, which having had gracious admittance, your Petitioners are thereby encouraged againe to make these their Hum<g ref="char:EOLhyphen"/>ble addresses to this Honourable Assembly.</p>
+            <p>Shewing, That whereas divers other Petitioners on Wednesday the 7. of this instant December, were pub<g ref="char:EOLhyphen"/>liquely endevouring to promote their Petition to this high Court. The said Petition was taken from them by colour of a pretended Warrant from the Lord Major of <hi>London,</hi> and one of the Petitioners imprisoned. The next day divers of them being assembled in <hi>Guild-hall,</hi> for the better advancing of the said Petition, a Troope of Horse was brought against them to disturbe the businesse, and to de<g ref="char:EOLhyphen"/>terre the Petitioners; which Troope violently and un<g ref="char:EOLhyphen"/>expectedly rushed in upon the Petitioners in a very formi<g ref="char:EOLhyphen"/>dable and threatning manner with drawne swords, to the
+<pb n="5" facs="tcp:196948:3"/>dreadfull apprehension of the Petitioners, whereby ma<g ref="char:EOLhyphen"/>ny of them were put to flight for their preservation.</p>
+            <p>That upon Munday following, by the consent of the Petitioners, and according to a former promise made by some of them unto the Lord Major, and at his request, a certaine number of them (unweaponed) met at <hi>Guild-hall,</hi> to desire the Concurrence of his Lordship, the Aldermen and Common-councell of the Citty to the said Petition, intending from thence imediately to repaire and present the same to the honourable Assembly.</p>
+            <p>No sooner were they met, and a Committee of the Petitioners appointed to attend the Court of Aldermen and Common-councell, but imediately thereupon (as if the Petitioners had beene destinated to be butchered) a<g ref="char:EOLhyphen"/>bout 20. Souldiers suddenly with drawne Swords entred the said <hi>Guild-hall,</hi> pressing in upon the Petitioners (being all unarmed) and brandishing their Swords, to the great affrightment and amazement of the Petitioners, can cryed <hi>on, on, strike now or never, Let us destroy these Malignant Doggs that would have PEACE, let us cut the throates of these Papist Rogues,</hi> and accordingly in a most cruell and barbarous manner, fell upon the Petitioners, and drave them up together, beating, hewing, and grievously woun<g ref="char:EOLhyphen"/>ding divers of them without cause or mercy, and had not some of the Petitioners (though with apparent danger of their lives) resolutely closed with the said Souldiers and disarmed them, much more bloud had been shed (and in all probability) and many a man saline.</p>
+            <p>When the Petitioners had mastered the Souldiers (to prevent further danger) they shut the Hall doores, which other Souldiers that were without attempted to hinder,
+<pb n="6" facs="tcp:196948:4"/>but not prevailing, a Troope of Horse being present in the Yard neer the Hall, came in a terrible manner to the Hall doores, and the Horsemen with Pistolls and drawn Swords in their hands, demanded, and fiercely endea<g ref="char:EOLhyphen"/>voured entrance, but being denyed, and not being able to force open the doores, were exceedingly enraged, and one of them with a Pistoll or Carbine, shot one of the Petitioners in the face, through the Wicket or Keyhole of the Doore, whereby he was very sore hurt, and his life endangered: Another of the Petitioners having esca<g ref="char:EOLhyphen"/>ped out of the Hall, as he was passing through the Horse<g ref="char:EOLhyphen"/>men, one of them with a Pole-axe, without any provo<g ref="char:EOLhyphen"/>cation, gave him a fearefull wound unto death (as is be<g ref="char:EOLhyphen"/>lieved) Another being in the Yard there, and saying, that he hoped that he should see Peace for all this, was therefore struck upon the head by another of the Souldi<g ref="char:EOLhyphen"/>ers, and pittifully wounded. And least any should escape in safety, Command was given to watch the back pas<g ref="char:EOLhyphen"/>sages, and to Pistoll any man that should issue there.</p>
+            <p>Divers houres did the Petitioners remaine in this de<g ref="char:EOLhyphen"/>sperate condition, crying, and calling unto the Lord Major, Court of Aldermen, and Common-councell (being all this while in consultation with the Committee of Petitioners with their Doore shut upon them) beseech<g ref="char:EOLhyphen"/>ing and imploring their protection, with continuall knoc<g ref="char:EOLhyphen"/>king at their doore, but a strange deafenesse possessed them, and the Petitioners remained remedylesse; in the meane time two Peeces of Ordnance were brought to the Gate, to have forced open the Doores of the Hall, wher<g ref="char:EOLhyphen"/>by the Petitioners might have beene made lyable to all manner of cruelty.</p>
+            <pb n="7" facs="tcp:196948:4"/>
+            <p>But the Petitioners having timely advertisement ther<g ref="char:EOLhyphen"/>of, by a stranger, were necessitated to cleer the Doores, and to fly up to the Common-councell-chamber, and hrust open their Doore for Protection, and for feare of being murdered, and divers of them being men of good quality, were so distressed through apprehension of that danger, that they were constrained to begge for their lives.</p>
+            <p>Whereupon the Petitioners besought the Petition of the said Court, and to dismisse them in safety, which at length was granted, and no sooner were they departed thence, but presently many armed men (as if they had layen in waite on purpose) pursued some of them with drawne Swords, and bitter execrations, many of the rude multitude taking advantage, did kicke, beate, re<g ref="char:EOLhyphen"/>proach, and inhumanely abuse them, crying out, <hi>hang them, cut their throates,</hi> with divers other dangerous in<g ref="char:EOLhyphen"/>citations, insomuch that one of the Petitioners being driven up to the top of an house, to avoyd their cruelty, was inforced (for the preservation of his life) evidently to endanger it, by leaping from one house top to another, whilst others by the monstrous violence of the tumult, were dragged, and hurryed to Prison, without just cause or Warrant.</p>
+            <p>Of these and other grievous enormities of this nature, without any offence or provocation given by the Petitio<g ref="char:EOLhyphen"/>ners, the Remonstrance have abundant proofe, and doe most humbly beseech your honours that so fearefull an outrage may receive such Examination and punishment,
+<pb n="8" facs="tcp:196948:5"/>and that the Petitioners may have such protection for safety of their lives, with liberty to exercise their Trades and functions as to your honourable and grave wisdomes shall seeme meete.</p>
+            <closer>And they shall ever pray for a blessing upon all your honourable proceedings, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
